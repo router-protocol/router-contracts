@@ -1,0 +1,20 @@
+{
+  "valset": {
+    "nonce": "3",
+    "members": [
+      {
+        "power": "1431655765",
+        "ethereumAddress": "0x0d3843eF248A03B772b4166e133243F579e43eb5"
+      },
+      {
+        "power": "1431655765",
+        "ethereumAddress": "0x582E32E3C5BB43E22BACacEe6ECF27d7C1CE987A"
+      },
+      {
+        "power": "1431655765",
+        "ethereumAddress": "0x6532dfF54F2f2130335ff3f9Dc46F32Cb023dd4D"
+      }
+    ],
+    "height": "811"
+  }
+}
