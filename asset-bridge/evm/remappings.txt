@@ -1,0 +1,10 @@
+@ethereum-waffle/=node_modules/@ethereum-waffle/
+@openzeppelin/=node_modules/@openzeppelin/
+@routerprotocol/=node_modules/@routerprotocol/
+eth-gas-reporter/=node_modules/eth-gas-reporter/
+ethpm-registry/=node_modules/ethpm-registry/
+ethpm-spec/=node_modules/ethpm-spec/
+ethpm/=node_modules/ethpm/
+hardhat-deploy/=node_modules/hardhat-deploy/
+hardhat/=node_modules/hardhat/
+tronbox/=node_modules/tronbox/
