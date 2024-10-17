@@ -70,7 +70,7 @@ const config = {
   solidity: {
     version: "0.8.18",
     settings: {
-      evmVersion: "landon",
+      evmVersion: "paris",
       metadata: {
         // Not including the metadata hash
         // https://github.com/paulrberg/solidity-template/issues/31
