@@ -1,0 +1,6 @@
+[submodule "asset-bridge-contracts/evm/lib/forge-std"]
+	path = asset-bridge-contracts/evm/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "router-gateway-contracts/evm/lib/forge-std"]
+	path = router-gateway-contracts/evm/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
