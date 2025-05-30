@@ -1,0 +1,22 @@
+[profile.default]
+src = "contracts"
+out = "artifacts/foundry"
+solc = "0.8.20"
+optimizer_runs = 10000000
+cache_path = "cache/foundry"
+libs = ["lib", "node_modules"]
+remappings = [
+    "forge-std/=lib/forge-std/src",
+    "@openzeppelin/=node_modules/@openzeppelin/",
+
+]
+extra-output-files = ["bin", "metadata"]
+
+[profile.default.zksync]
+fallback_oz = true
+is_system = false # Note: NonceHolder and the ContractDeployer system contracts can only be called with a special isSystem flag as true
+mode = "3"
+optimizer = true
+optimizer_mode = "3"
+suppressed_warnings = []
+suppressed_errors = []
